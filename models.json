@@ -9,7 +9,7 @@
                     {
                         "name": "q6_K",
                         "filename": "mistral-7b-instruct-v0.1.Q6_K.gguf",
-                        "disk_space": 59400000000.0
+                        "disk_space": 5940000000.0
                     }
                 ]
             },
@@ -20,7 +20,7 @@
                     {
                         "name": "q6_K",
                         "filename": "mistral-7b-openorca.Q6_K.gguf",
-                        "disk_space": 59400000000.0
+                        "disk_space": 5940000000.0
                     }
                 ]
             },
@@ -31,7 +31,23 @@
                     {
                         "name": "q6_K",
                         "filename": "mistral-7b-v0.1.Q6_K.gguf",
-                        "disk_space": 59400000000.0
+                        "disk_space": 5940000000.0
+                    }
+                ]
+            }
+        ]
+    },
+	{
+        "name": "zephyr",
+        "models": [
+            {
+                "name": "zephyr-7B-beta",
+                "repo": "TheBloke/zephyr-7B-beta-GGUF",
+                "files": [
+                    {
+                        "name": "q6_K",
+                        "filename": "zephyr-7b-beta.Q6_K.gguf",
+                        "disk_space": 5900000000.0
                     }
                 ]
             }
