@@ -37,7 +37,7 @@
             }
         ]
     },
-	{
+    {
         "name": "zephyr",
         "models": [
             {
@@ -48,6 +48,22 @@
                         "name": "q6_K",
                         "filename": "zephyr-7b-beta.Q6_K.gguf",
                         "disk_space": 5900000000.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CausalLM",
+        "models": [
+            {
+                "name": "CausalLM-14B",
+                "repo": "TheBloke/CausalLM-14B-GGUF",
+                "files": [
+                    {
+                        "name": "q5_1",
+                        "filename": "causallm_14b.Q5_1.gguf",
+                        "disk_space": 10700000000.0
                     }
                 ]
             }
